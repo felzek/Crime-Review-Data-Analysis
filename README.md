@@ -28,10 +28,27 @@ examples of code here
 Stats/graphs pictures, info here
 
 ### Data Relationships
-After the research and data crunching, etc etc
 
-### Insights
+<html>
+<body>
+  <p>
+    <img align="left" width="30%" alt="austin_burglary" src="https://user-images.githubusercontent.com/30611037/34004005-65bba742-e0bc-11e7-982b-8a9c49271232.png">After the research and data crunching, we discovered that there are a few relationships of note:
+<ul>
+  <li>Most crimes are committed in the South/Central Austin area</li>
+  <li>There is no correlation, at all, between Yelp reviews and the crime data</li>
+  <li>Areas with higher crime also have a higher number of affordable housing projects</li>
+</ul>
+  </p>
+  </body>
+  </html>
   
+### Insights
+One interesting trend we noticed during our exploration involves the sentiment analysis of the business reviews. Even if the compound sentiment polarity is negative, the overall rating for the business will not necessarily be low. Overall, Yelp reviews in Austin are overwhelmingly positive.   
+
+### Challenges
+Every project comes with its own set of challenges. Time (or lack of) is a fairly universal one. We also encountered limits with the data, such as the Yelp API only allowing three reviews per business.
+
+Originally, we had planned to include more in-depth information about housing prices, family size, and median income, but we ran into complications involving the Zillow API and in aquiring additional market datasets.
   
 #### Prerequisites
 *include info here
