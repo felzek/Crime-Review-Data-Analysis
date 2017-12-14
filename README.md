@@ -11,4 +11,4 @@ Because even though Austin is a pretty cool place, there are dusty corners and d
 ![sankeymatic_2000x1200](https://user-images.githubusercontent.com/30611037/33969114-21f95012-e031-11e7-9773-9020d79df3db.png) We utilized the jupyter notebook and Python 3.6 to create our DataFrames and coerce our data to tell us a story. After creating and cleaning the data, other questions we discovered we wanted answers to include: <ul><li> Do affordable housing locations have a relationship with crime?</li> 
 <li>What about businesses - will the quality of their reviews be reflected in their location?</li></ul>
 
-<img width="1440" alt="austin_agg_assault" src="https://user-images.githubusercontent.com/30611037/33969168-6ea7fda0-e031-11e7-98b0-ecd9d872d2f8.png">
+<img width="700" alt="austin_agg_assault" src="https://user-images.githubusercontent.com/30611037/33969168-6ea7fda0-e031-11e7-98b0-ecd9d872d2f8.png">
