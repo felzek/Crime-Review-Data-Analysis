@@ -16,7 +16,22 @@ Because even though Austin is a pretty cool place, there are dusty corners and d
     <li>Are certain zip codes associated with certain crimes?</li>
     <li>Do affordable housing locations have a relationship with crime?</li> 
     <li>What about businesses - will the quality of their reviews be reflected in their location?</li></ul>
+We also performed sentiment analysis using VADER sentiment analysis on the reviews for local businesses in the area, in hopes to find correlation between review polarity and location.  
   </p>
   </body>
   </html>
-<img width="350" alt="austin_agg_assault" src="https://user-images.githubusercontent.com/30611037/33969168-6ea7fda0-e031-11e7-98b0-ecd9d872d2f8.png">
+  
+### Tests
+Stats/graphs pictures, info here
+  
+#### Prerequisites
+*include info here
+
+#### Raw Data Sources
+Public annual crime records (2014 - 2016), crime demographics, and affordable housing information were all obtained from data.austintexas.gov. 
+
+Local business information and reviews obtained from the Yelp API.
+
+
+
+
