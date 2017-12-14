@@ -49,6 +49,11 @@ One interesting trend we noticed during our exploration involves the sentiment a
 Every project comes with its own set of challenges. Time (or lack of) is a fairly universal one. We also encountered limits with the data, such as the Yelp API only allowing three reviews per business.
 
 Originally, we had planned to include more in-depth information about housing prices, family size, and median income, but we ran into complications involving the Zillow API and in aquiring additional market datasets.
+
+The overall quality of the Yelp reviews was also called into question, as well as the Yelp business practices. We won't get into it here, but we do feel there is bias and a great deal of limitation using this interface. 
+ 
+### Additional Questions
+We feel that, given ample time, there are far more questions that can be answered and data to be explored. What are the schools like in these areas? We now know a bit about gender and racial demographics involving crime, but how are the demographics spread throughout the city? We have all of this crime data from 2014-2016, can we predict a trend for 2017 and 2018? 
   
 #### Prerequisites
 *include info here
