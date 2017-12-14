@@ -11,7 +11,7 @@ Because even though Austin is a pretty cool place, there are dusty corners and d
 <html>
 <body> 
   <p>
-  <img width="65%" height="auto" align="right" alt="crime_data" src="https://user-images.githubusercontent.com/30611037/33969114-21f95012-e031-11e7-9773-9020d79df3db.png"> We utilized the jupyter notebook and Python 3.6 to create our DataFrames and coerce our data to tell us a story.<br><br> After creating and cleaning the data, other questions we discovered we wanted answers to include: 
+  <img width="65%" height="auto" align="right" alt="crime_data" src="https://user-images.githubusercontent.com/30611037/34005445-82a3e2a8-e0c0-11e7-84b3-dc62dfdc3b29.png"> We utilized the jupyter notebook and Python 3.6 to create our DataFrames and coerce our data to tell us a story.<br><br> After creating and cleaning the data, other questions we discovered we wanted answers to include: 
   <ul>
     <li>Are certain zip codes associated with certain crimes?</li>
     <li>Do affordable housing locations have a relationship with crime?</li> 
