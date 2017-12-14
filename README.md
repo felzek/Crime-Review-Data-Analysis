@@ -21,16 +21,25 @@ We also performed sentiment analysis using VADER sentiment analysis on the revie
   </body>
   </html>
   
+### The Code
+examples of code here
+  
 ### Tests
 Stats/graphs pictures, info here
+
+### Data Relationships
+After the research and data crunching, etc etc
+
+### Insights
+  
   
 #### Prerequisites
 *include info here
 
 #### Raw Data Sources
-Public annual crime records (2014 - 2016), crime demographics, and affordable housing information were all obtained from data.austintexas.gov. 
+Public annual crime records (2014 - 2016), crime demographics, and affordable housing information were all obtained from <a href="https://data.austintexas.gov/">data.austintexas.gov</a>. 
 
-Local business information and reviews obtained from the Yelp API.
+Local business information and reviews obtained from the <a href="https://www.yelp.com/fusion">Yelp API</a>.
 
 
 
